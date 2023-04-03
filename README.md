@@ -58,3 +58,5 @@ or
 $ yarn dev
 
 ```
+
+<p align="center">Made with 💜 by Fernando Souza</p>
